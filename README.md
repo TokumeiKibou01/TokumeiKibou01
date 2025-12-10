@@ -6,13 +6,9 @@
 * Python：2020年～
 * Java：2020年～
   * Spigot（※Minecraftのサーバーライブラリ）：2020年～
-      * 氷鬼ごっこ、建築当てゲーム
   * net.minecraft.server（※Minecraftのサーバーライブラリ）：2024年10月～
-    * キット型PVP（Spigotと併用）
   * JavaFX：2025年8月～
-     * スクリーンショットソフト
   * Android：2025年10月～
-    * 電卓、防災アプリ（※制作中）
 * C++：2025年4月～
     * DxLib：2025年4月～
 
