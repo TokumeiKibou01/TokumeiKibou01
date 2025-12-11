@@ -11,5 +11,3 @@
   * Android：2025年10月～
 * C++：2025年4月～
     * DxLib：2025年4月～
-
-![Top Lang](https://status-1659.vercel.app/api/top-langs/?username=TokumeiKibou01&langs_count=20)
